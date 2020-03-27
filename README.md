@@ -38,7 +38,7 @@ We expect you to:
 You are free to use any deep learning framework although PyTorch is preferable.
 Please share your QA model weights and language model weights / embeddings along with your submission.
 
+## Submission 
 
-```python
-
-```
+To submit, fork this repository, finish and push your notebook on the forked repository then perform a pull request to this repository.  
+Deadline for the submission is Monday, 27 March 2020 11:59 PM.

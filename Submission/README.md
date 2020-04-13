@@ -10,7 +10,7 @@ We are using the Sequence to Sequence Encoder Decoder model with GRU RNN units.
 │   └── train-v2.0.json
 ├── env
 ├── README.md
-├── requirements.py
+├── requirements.txt
 └── src
     ├── config.py
     ├── model.py

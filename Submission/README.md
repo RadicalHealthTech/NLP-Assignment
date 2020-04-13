@@ -4,7 +4,7 @@ In this assignment, we will be working on the problem of Question Answering (QA)
 We are using the Sequence to Sequence Encoder Decoder model with GRU RNN units.
 
 ### Folder structure:
-
+```
 ├── data
 │   ├── dev-v2.0.json
 │   └── train-v2.0.json
@@ -16,7 +16,7 @@ We are using the Sequence to Sequence Encoder Decoder model with GRU RNN units.
     ├── model.py
     ├── squad_data.py
     └── trainer.py
-
+```
 ### Setup:
 
 1. Install Python-3.7
